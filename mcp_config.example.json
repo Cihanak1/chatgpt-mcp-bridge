@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "chatgpt-mimar": {
+      "command": "python",
+      "args": [
+        "bridge_server.py"
+      ]
+    }
+  }
+}
